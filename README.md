@@ -1,5 +1,6 @@
+<h1 align="center">Pokémon Cover Project</h1>  
+
 <p align="center">
-  # pokemon-cover-project
   <img src="/docs/example.jpg" />
 </p>
 
