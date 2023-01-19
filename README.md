@@ -1,6 +1,5 @@
-# pokemon-cover-project
-
 <p align="center">
+  # pokemon-cover-project
   <img src="/docs/example.jpg" />
 </p>
 
